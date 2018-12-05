@@ -131,10 +131,51 @@
 
 * LSP
 * Tem como princípio que classes derivadas devem poder ser substituídas por suas classes base.
-	* COnsiderado uma extensão do OCP.
+	* Considerado uma extensão do OCP.
 	* Em resumo, diz que toda classe filho deve poder ser substituída pela pai sem problemas, seja o pai uma interface, classe ou classe abstrata.
 		* Não devendo ser necessário alterar o pai para isso.
 	* Também liga-se as boas práticas de POO onde a classe que herdar de uma abstração (interface ou classe abstrata) deve ter função para tudo o que foi herdado, não tendo heranças desnecessárias.
+
+* Exemplo 01 - No mundo real
+	* Considere que numa determinada família o pai seja um médico cirurgião e o filho seja um músico.
+		* O pai tem conhecimento em medicina, como foco em cirurgias e o filho conhecimento em música, tendo uma banda de rock.
+
+* Neste exemplo, mesmo que se trata da mesma hierarquia familiar, o filho e o pai não podem um substituir o outro, certo?
+	* O pai não pode fazer uma turnê de rock e o filh onão pode operar alguém.
+		* Dessa forma, o LSP NÃO está sendo empregado nesta família.
+
+<img src="imgs/07.png"/>
+
+
+-------------------------------------------------------------------------
+<h1>Seção 07 - Princípio da Segregação de Interface</h1>
+
+* ISP
+* Tem como princípio que todas as interfaces implementadas não devem ter funções que não são utilizadas pela classe que a implementou.
+	* EM outras palavras "Uma classe consumidora não deve conhecer (depender) de métodos que não necessitam".
+	* Em resumo, diz que toda classe que herde de uma interface não pode ter métodos que não são usados.
+		* Usando a lógica, podemos ver que na maior parte dos casos, caso o ISP não seja respeitado, teremos problemas com o OCP e o LSP também.
+
+
+-------------------------------------------------------------------------------
+<h1>Seção 08 - Princípio da Inversão de Dependência</h1>
+
+* DIP
+* Tem como princípio ser uma maneira específica para desacoplar as dependências entre os objetos.
+	* Componentes (Classes) de mais alto nível não devem depender de componentes (Classes) de níveis mais baixos, mas ambos devem depender de abstrações.
+	* Abstrações não devem depender de detalhes (implementações), mas os detalhes (implementações) devem depender de abstrações.
+	* Inverter a dependência faz com que um cliente não fique frágil a mudanças relacionadas a detalhes de implementação.
+		* Isto é, alterar o detalhe não quebra o cliente.
+		* Além disso, o mesmo cliente pode ser reutilizado com outro detalhe de implementação.
+
+
+<img src="imgs/08.png"/>
+<img src="imgs/09.png"/>
+<img src="imgs/10.png"/>
+
+* Um botão não depende mais da lampada, com isso pode ser criado novos dispositivos.
+
+<img src="imgs/11.png"/>
 
 
 
