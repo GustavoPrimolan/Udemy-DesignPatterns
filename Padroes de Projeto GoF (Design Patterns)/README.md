@@ -117,6 +117,17 @@
 * Padrões de Criação (Criacionais) - 5
 	* Eles disponibilizam uma maneira para criar objetos ocultando os detalhes da sua criação, ao invés de utilizar o operador new diretamente. Isto dá mais flexibilidade na hora de decidir quais objetos precisam ser criados para um determinado caso.
 
+* Intenção: Garantir que uma determinada classe tenha uma, e somente uma instância, mantendo um ponto global de acesso para a mesma.
+
+* Padrão nível 4
+
+<img src="imgs/06.png"/>
+
+<h2>Factory Method #2</h2>
+
+* Intenção: Definir uma interface para criar um objeto, mas deixar as subclasses decidierem que calsse instanciar.
+* Cria uma instância de várias classes derivadas.
+
 
 
 
