@@ -127,7 +127,11 @@
 
 * Intenção: Definir uma interface para criar um objeto, mas deixar as subclasses decidierem que calsse instanciar.
 * Cria uma instância de várias classes derivadas.
+* Nível de frequência - 5 - Alto
 
+<img src="imgs/07.png"/>
+
+<img src="imgs/08.png"/>
 
 
 
