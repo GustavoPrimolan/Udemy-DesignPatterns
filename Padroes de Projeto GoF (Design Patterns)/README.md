@@ -128,10 +128,20 @@
 * Intenção: Definir uma interface para criar um objeto, mas deixar as subclasses decidierem que calsse instanciar.
 * Cria uma instância de várias classes derivadas.
 * Nível de frequência - 5 - Alto
+* Boa expansividade
 
 <img src="imgs/07.png"/>
 
 <img src="imgs/08.png"/>
+
+<h2>Abstract Factory #3</h2>
+
+* Intenção: Fornecer uma interface para criação de famílias de objetos relacionados ou dependentes sem especificar suas classes concetras.
+* Cria uma instância de várias famílias de classes.
+* Nível de frequência - 5 - Alto.
+
+<img src="imgs/09.png"/>
+
 
 
 
