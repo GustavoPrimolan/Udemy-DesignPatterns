@@ -142,6 +142,21 @@
 
 <img src="imgs/09.png"/>
 
+<h2>Builder</h2>
+
+* Intenção: Separar a construção de um objeto complexo da sua representação de modo que o mesmo processo de construção possa criar diferentes representações.
+* Separa a construção do objeto de sua representação.
+* Nível de frequência - 2 - 
+
+<img src="imgs/10.png"/>
+
+<img src="imgs/11.png"/>
+
+
+
+
+
+
 
 
 
