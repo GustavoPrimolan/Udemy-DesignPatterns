@@ -142,7 +142,7 @@
 
 <img src="imgs/09.png"/>
 
-<h2>Builder</h2>
+<h2>Builder #4</h2>
 
 * Intenção: Separar a construção de um objeto complexo da sua representação de modo que o mesmo processo de construção possa criar diferentes representações.
 * Separa a construção do objeto de sua representação.
@@ -151,6 +151,11 @@
 <img src="imgs/10.png"/>
 
 <img src="imgs/11.png"/>
+
+<h2>Prototype #5</h2>
+
+* Intenção: Especificar os tipos de objetos a serem criados usando uma instância protótipo e criar novos objetos pela cópia deste protótipo.
+* Uma instância inicializada a ser copiada ou clonada.
 
 
 
