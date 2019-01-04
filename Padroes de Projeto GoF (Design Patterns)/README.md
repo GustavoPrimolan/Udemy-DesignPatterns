@@ -156,6 +156,26 @@
 
 * Intenção: Especificar os tipos de objetos a serem criados usando uma instância protótipo e criar novos objetos pela cópia deste protótipo.
 * Uma instância inicializada a ser copiada ou clonada.
+* Nível de Frequência - 3.
+* Muito utilizada em jogos.
+
+<img src="imgs/12.png"/>
+
+--------------------------------------------------------
+<h1>Seção 04 - GoF - Estrutural</h1>
+
+* Padrões Estruturais - Possuem 7
+	* Eles se preocupam com a composição das classes e seus objetos. O conceito de herança é largamente utilizado para compor interfaces e definir maneiras para compor objetos e objter novas funcionalidades.
+
+<h2>Bridge #6</h2>
+
+* Intenção: Desacoplar uma abstração da sua implementação, de modo que as duas possam varias independentemente.
+* Separa a interface do objeto de sua implementação.
+
+
+
+
+
 
 
 
