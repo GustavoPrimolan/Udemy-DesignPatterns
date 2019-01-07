@@ -171,9 +171,20 @@
 
 * Intenção: Desacoplar uma abstração da sua implementação, de modo que as duas possam varias independentemente.
 * Separa a interface do objeto de sua implementação.
+* Frequência de uso - 3
+
+<img src="imgs/13.png"/>
+
+<img src="imgs/14.png"/>
 
 
+<h2>Adapter #7</h2>
 
+* Intenção: Converter a interface de uma classe em outra interface, esperada pelos clientes. O Adapter permite que classes com interfaces incompatíveis trabalhem em conjunto o que, de outra forma, seria impossível.
+* Equiparar interfaces de diferentes classes.
+* Frequência de uso - 4.
+
+<img src="imgs/15.png"/>
 
 
 
