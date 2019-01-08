@@ -186,7 +186,16 @@
 
 <img src="imgs/15.png"/>
 
+<h2>Proxy #8</h2>
 
+* Intenção: Fornece um substituto (surrogate) ou marcador da localização de outro objeto para controlar o acesso ao mesmo.
+* Um objeto representado um outro objeto.
+* Frequência de uso - 4
+* Chamada de objetos remotos (muito utilizado)
+* Representa um objeto distânte do cliente.
+* Utilizado para controle de acesso. Encapsula um dado objeto.
+
+<img src="imgs/16.png"/>
 
 
 
