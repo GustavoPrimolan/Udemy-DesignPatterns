@@ -197,6 +197,19 @@
 
 <img src="imgs/16.png"/>
 
+<h2>Decorator #9</h2>
+
+* Intenção: Agregar dinamicamente responsabilidades adicionais a um objeto.
+* Motivação: Objeto usado possui funcionalidades básicas e precisa adicionar funcionalidades em tempo de execução.
+
+<img src="imgs/17.png"/>
+
+<h2>Composite #10</h2>
+
+* Intenção: Compor objetos em estruturas de árvore para representaram hierarquias todo-parte.
+
+
+
 
 
 
