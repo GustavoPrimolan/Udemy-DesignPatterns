@@ -208,6 +208,8 @@
 
 * Intenção: Compor objetos em estruturas de árvore para representaram hierarquias todo-parte.
 
+<img src="imgs/18.png"/>
+
 
 
 
