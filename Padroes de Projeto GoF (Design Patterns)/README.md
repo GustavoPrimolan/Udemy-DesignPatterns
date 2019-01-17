@@ -207,11 +207,21 @@
 <h2>Composite #10</h2>
 
 * Intenção: Compor objetos em estruturas de árvore para representaram hierarquias todo-parte.
+* Frequência de uso - 4.
 
 <img src="imgs/18.png"/>
+<img src="imgs/19.png"/>
+
+<h2>Façade (Facade) #11</h2>
+
+* Intenção: Fornecer uma interface unificada para um conjunto de interfaces em um subsistema. Façade define uma interface de nível mais alto que torna o subsistema mais fácil de ser usado.
+* Uma única classe representa um subsistema inteiro.
+* Frequência de uso - 5. - Muito alta.
+
+<img src="imgs/20.png"/>
 
 
-
+<h2>Fl</h2>
 
 
 
