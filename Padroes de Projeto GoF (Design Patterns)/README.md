@@ -221,8 +221,32 @@
 <img src="imgs/20.png"/>
 
 
-<h2>Fl</h2>
+<h2>Flyweight #12</h2>
 
+* Intenção: Usar compartilhamento para suportar eficientemente grandes quantidades de objetos de granularidade fina.
+* Frequência de uso - 1 - Muito baixa.
+* Informações permitidas e recurso de memória é limitado.
+
+<img src="imgs/21.png"/>
+
+* Estado intrínseco/ extrínseco.
+	* Intrínseco - Próprio objeto/da classe.
+	* Extrínseco - FOra do objeto.
+
+<img src="imgs/22.png"/>
+
+---------------------------------------------------------------------
+<h1>Seção 05 - GoF - Comportamental</h1>
+
+<h2>Padrões comportamental - 11 Padrões</h2>
+
+* Eles são especificamente relacionados com a comunicação entre objetos.
+
+<h2>Command #13</h2>
+
+* Intenção: encapsular uma solicitação como um objeto, desta forma permitindo parametrizar clientes com diferente solicitações, enfileirar ou fazer o registro (log) de solicitações e suportar operações que podem ser desfeitas.
+* Encapsular comandos como um objeto.
+* Frequência de utilzação - 4 - Alta.
 
 
 
