@@ -246,12 +246,19 @@
 
 * Intenção: encapsular uma solicitação como um objeto, desta forma permitindo parametrizar clientes com diferente solicitações, enfileirar ou fazer o registro (log) de solicitações e suportar operações que podem ser desfeitas.
 * Encapsular comandos como um objeto.
-* Frequência de utilzação - 4 - Alta.
+* Frequência de utilização - 4 - Alta.
 * Classico disso - Ctrl Z - Undo / Redo
 
 <img src="imgs/23.png"/>
 
+<h2>Strategy</h2>
 
+* Intenção: Definir uma família de algoritmos, encapsular cada uma delas e torná-las intercambiáveis. Strategy permite que o algoritmo varie independentemente dos clientes que o utilizam.
+* Encapsular algoritmos ("estratégias") como um objeto.
+* Freuqência de utilização - 4 - Alta.
+
+<img src="imgs/24.png"/>
+<img src="imgs/25.png"/>
 
 
 
