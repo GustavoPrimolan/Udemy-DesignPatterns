@@ -263,13 +263,17 @@
 <h2>State #15</h2>
 
 * Intenção: Permite a um objeto alterar seu comportamento quando o seu estado interno muda. O objeto parecerá ter mudado sua classe.
-* ALterar o comportamento de um objeto quando seu estado muda.
+* Alterar o comportamento de um objeto quando seu estado muda.
 * Frequência de utilização - 3 - Média.
 
 <img src="imgs/26.png"/>
 <img src="imgs/27.png"/>
 
 
+<h2>Observer #16</h2>
 
+* Intenção: Definir uma dependência um-para-muitos entre objetos, de maneira que quando um objeto muda de estado todos os seus dependentes são notificados e atualizados automaticamente.
+* Frequência de utilização - 5 - Muito alta.
 
-
+<img src="imgs/28.png"/>
+<img src="imgs/29.png"/>
