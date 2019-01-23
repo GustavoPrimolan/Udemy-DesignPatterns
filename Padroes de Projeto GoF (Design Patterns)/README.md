@@ -251,17 +251,23 @@
 
 <img src="imgs/23.png"/>
 
-<h2>Strategy</h2>
+<h2>Strategy #14</h2>
 
 * Intenção: Definir uma família de algoritmos, encapsular cada uma delas e torná-las intercambiáveis. Strategy permite que o algoritmo varie independentemente dos clientes que o utilizam.
 * Encapsular algoritmos ("estratégias") como um objeto.
-* Freuqência de utilização - 4 - Alta.
+* Frequência de utilização - 4 - Alta.
 
 <img src="imgs/24.png"/>
 <img src="imgs/25.png"/>
 
+<h2>State #15</h2>
 
+* Intenção: Permite a um objeto alterar seu comportamento quando o seu estado interno muda. O objeto parecerá ter mudado sua classe.
+* ALterar o comportamento de um objeto quando seu estado muda.
+* Frequência de utilização - 3 - Média.
 
+<img src="imgs/26.png"/>
+<img src="imgs/27.png"/>
 
 
 
