@@ -277,3 +277,33 @@
 
 <img src="imgs/28.png"/>
 <img src="imgs/29.png"/>
+
+<h2>Mediator #17</h2>
+
+* Intenção: Definir um objeto que encapsula a forma como um conjunto de objetos interage O Mediator promove o acoplamento fraco ao evitar que os objetos se refiram uns aos outros explicitamente e permite variar suas interações independentemente.
+* Definir uma comunicação simplificada entre as classes.
+* Frequência de utilização: 2 - Baixa.
+
+<img src="imgs/30.png"/>
+<img src="imgs/31.png"/>
+
+* Dependência sem o mediator é alta.
+
+<img src="imgs/32.png"/>
+
+
+<h2>Chain of Responsibility #18</h2>
+
+* Intenção: Evitar o acoplamento do remetente de uma solicitação ao seu receptor, ao dar a mais de um objeto a oportunidade de tratar a solicitação. Encadear os objetos receptores, passando a solicitação ao longo da cadeia até que um objeto a trate.
+* Uma maneira de passar uma requisição entre uma cadeia de objetos.
+* Frequência de utilização: 2 - Baixa.
+
+<img src="imgs/33.png"/>
+<img src="imgs/34.png"/>
+<img src="imgs/35.png"/>
+
+
+
+
+
+
