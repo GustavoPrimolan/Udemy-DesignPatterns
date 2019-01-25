@@ -303,6 +303,17 @@
 <img src="imgs/35.png"/>
 
 
+<h2>Template Method #19</h2>
+
+* Intenção: Definir o esqueleto de um algoritmo em uma operação, postergando (deferring) alguns passos para subclasses. Template Method (Gabarito de Método) permite que subclasses redefinam certos passos de um algoritmo sem mudar a estrutura do mesmo.
+* Frequência de utilização - 3 - Média.
+<img src="imgs/36.png"/>
+<img src="imgs/37.png"/>
+
+
+
+
+
 
 
 
