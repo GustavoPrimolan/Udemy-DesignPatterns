@@ -310,6 +310,17 @@
 <img src="imgs/36.png"/>
 <img src="imgs/37.png"/>
 
+<h2>Interpreter #20</h2>
+
+* Intenção: dada uma linguagem, definir uma representação para a sua gramática juntamente com um interpretador que usa representação para interpretar sentenças da linguagem.
+* Uma forma de incluir elementros da linguagem em um programa.
+* Usa classes para repsentar cada regra de uma gramática (expressão regular).
+* Frequência de utilização - 1 - Muito baixa.
+
+<img src="imgs/38.png"/>
+<img src="imgs/39.png"/>
+
+
 
 
 
