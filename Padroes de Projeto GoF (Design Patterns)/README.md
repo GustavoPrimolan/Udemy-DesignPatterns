@@ -320,6 +320,21 @@
 <img src="imgs/38.png"/>
 <img src="imgs/39.png"/>
 
+<h2>Memento #21</h2>
+
+* Intenção: Sem violar o encapsulamento, capturar e externalizar um estado interno de um objeto, de maneira que o objeto possa ser restaurando para este estado mais tarde.
+* Frequência de utilização - 1 - Muito baixa.
+* Salvar o estado de um objeto.
+<img src="imgs/40.png"/>
+<img src="imgs/41.png"/>
+
+
+
+
+
+
+
+
 
 
 
