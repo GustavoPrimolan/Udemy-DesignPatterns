@@ -329,6 +329,16 @@
 <img src="imgs/41.png"/>
 
 
+<h2>Iterator #22</h2>
+
+* Intenção: Fornecer um meio de acessar, sequencialmente, os elementos de um objeto agregado sem expor a sua representação.
+* Frequência de utilização - 5 - Muito alta.
+* Examinar o conteúdo de listas.
+
+<img src="imgs/42.png"/>
+
+<img src="imgs/43.png"/>
+
 
 
 
