@@ -339,6 +339,16 @@
 
 <img src="imgs/43.png"/>
 
+<h2>Visitor #23</h2>
+
+* Intenção: Representar uma operação a ser executada nos elementos de uma estrutura de objetos. VIsitor permite definir uma nova operação sem mudar as classes dos elementos entre os quais opera.
+* Define uma nova operação a uma classe sem alterá-la.
+* Frequência de utilização - 1 - Muito baixa.
+
+<img src="imgs/44.png"/>
+<img src="imgs/45.png"/>
+
+
 
 
 
